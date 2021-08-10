@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update sys_domain="global" table="sys_ui_application">
+    <sys_ui_application action="INSERT_OR_UPDATE">
+        <active>true</active>
+        <hint/>
+        <name>Example Table</name>
+        <order/>
+        <roles>x_480419_demo_01.example_table_user</roles>
+        <sys_class_name>sys_ui_application</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2021-08-10 13:41:37</sys_created_on>
+        <sys_domain>global</sys_domain>
+        <sys_domain_path>/</sys_domain_path>
+        <sys_id>f61bd98f2f3130102d34b6a62799b604</sys_id>
+        <sys_mod_count>1</sys_mod_count>
+        <sys_name>Example Table</sys_name>
+        <sys_overrides/>
+        <sys_package display_value="demo_01" source="x_480419_demo_01">d157f2aa2fb130102d34b6a62799b669</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="demo_01">d157f2aa2fb130102d34b6a62799b669</sys_scope>
+        <sys_update_name>sys_ui_application_f61bd98f2f3130102d34b6a62799b604</sys_update_name>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2021-08-10 13:42:19</sys_updated_on>
+    </sys_ui_application>
+</record_update>
